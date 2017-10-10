@@ -43,6 +43,7 @@
     "react-dom": "0.14.3",
     "react-redux": "4.2.1",
     "redux": "3.2.1",
+    "redux-devtools-extension": "2.13.2",
     "superagent": "jarvisaoieong/superagent#845d2eff7910f051f93420edb0c898038f3a33e5"
   }
 }
